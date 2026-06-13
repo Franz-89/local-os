@@ -24,10 +24,17 @@ updated: 2026-06-13
 - Migrare progressivamente tutta la domotica a **Zigbee**.
 - Sostituire o standardizzare le lampadine smart usando **Philips Hue**.
 
+## Libreria Jellyfin
+
+### Serie da scaricare
+
+- Revenge
+- Silo
+
 ## Decisioni e preferenze
 
 - Home Assistant Green rimane il centro della domotica.
-- La futura infrastruttura domestica dovrebbe basarsi su Zigbee per ridurre la dipendenza da dispositivi Wi-Fi.
+- La futura infrastruttura domestica dovrebbe basarsi su Zigbee per ridurre la dipendenza da dispositivi Wi‑Fi.
 - Le lampadine smart dovrebbero essere Philips Hue, per maggiore affidabilita e integrazione.
 - Jellyfin sara il media server principale per la famiglia.
 
@@ -37,9 +44,10 @@ updated: 2026-06-13
 - Definire come esporre Jellyfin alla famiglia in modo sicuro.
 - Scegliere strategia di backup Google Drive.
 - Fare inventario dei dispositivi smart attuali.
-- Pianificare migrazione da Wi-Fi smart devices a Zigbee.
+- Pianificare migrazione da Wi‑Fi smart devices a Zigbee.
 - Pianificare sostituzione lampadine con Philips Hue.
 
 ## Changelog
 
+- 2026-06-13: aggiunte le serie Revenge e Silo alla lista contenuti Jellyfin.
 - 2026-06-13: creato progetto con note su Home Assistant Green, NAS UGREEN 4800 Plus, Jellyfin, backup Google Drive, accesso famiglia, Zigbee e Philips Hue.
