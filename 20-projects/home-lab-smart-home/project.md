@@ -24,13 +24,6 @@ updated: 2026-06-13
 - Migrare progressivamente tutta la domotica a **Zigbee**.
 - Sostituire o standardizzare le lampadine smart usando **Philips Hue**.
 
-## Libreria Jellyfin
-
-### Serie da scaricare
-
-- Revenge
-- Silo
-
 ## Decisioni e preferenze
 
 - Home Assistant Green rimane il centro della domotica.
@@ -49,5 +42,5 @@ updated: 2026-06-13
 
 ## Changelog
 
-- 2026-06-13: aggiunte le serie Revenge e Silo alla lista contenuti Jellyfin.
+- 2026-06-13: rimossa la watchlist Jellyfin da questo progetto; spostata in una nota dedicata alla libreria media.
 - 2026-06-13: creato progetto con note su Home Assistant Green, NAS UGREEN 4800 Plus, Jellyfin, backup Google Drive, accesso famiglia, Zigbee e Philips Hue.
