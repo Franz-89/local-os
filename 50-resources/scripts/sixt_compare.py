@@ -2,7 +2,7 @@
 """
 SIXT multi-sito opener per confrontare prezzi.
 
-Cerca Milano Linate dal 15 al 22 settembre 2026, confrontando le pagine SIXT
+Cerca su una location dal-al, confrontando le pagine SIXT
 per varie nazionalita. Lo script usa Playwright per aprire i domini, compilare
 quanto possibile la ricerca, estrarre le auto/prezzi visibili e salvare un CSV.
 
