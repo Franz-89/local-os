@@ -18,3 +18,7 @@ Usa questo file solo come parcheggio temporaneo per informazioni non ancora stru
 - Possibile utilizzo futuro di ACL Tailscale per limitare l'accesso dei familiari al solo NAS/Jellyfin.
 - Contenuti principalmente in Full HD, non 4K; attenzione a favorire Direct Play quando possibile.
 - Possibile destinazione: area/progetto dedicato a homelab, NAS o media server.
+
+### 2026-06-16 - Film da scaricare
+- Sound of Freedom (film ispirato alla storia di Tim Ballard).
+- Possibile destinazione: lista film/watchlist da creare o aggiornare.
