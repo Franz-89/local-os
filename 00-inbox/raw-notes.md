@@ -22,3 +22,8 @@ Usa questo file solo come parcheggio temporaneo per informazioni non ancora stru
 ### 2026-06-16 - Film da scaricare
 - Sound of Freedom (film ispirato alla storia di Tim Ballard).
 - Possibile destinazione: lista film/watchlist da creare o aggiornare.
+
+### 2026-06-17 - Serie da scaricare per Jellyfin
+- Revenge.
+- Silo.
+- Possibile destinazione: lista serie/watchlist Jellyfin da creare o aggiornare.
