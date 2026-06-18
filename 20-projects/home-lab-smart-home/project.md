@@ -2,7 +2,7 @@
 type: project
 status: active
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-18
 ---
 
 # Home lab e smart home
@@ -11,7 +11,8 @@ updated: 2026-06-13
 
 - Attualmente uso **Home Assistant Green** come hub principale per la domotica.
 - Sto pianificando l'acquisto di un **NAS UGREEN NASync DXP4800 Plus**.
-- Il NAS dovrebbe essere usato per:
+- Il dettaglio operativo su NAS, Jellyfin, accesso remoto famiglia e backup cloud e consolidato in `20-projects/nas-jellyfin-backup/project.md`.
+- In sintesi, il NAS dovrebbe essere usato per:
   - installare **Jellyfin** come media server;
   - fare il **backup di Google Drive**;
   - centralizzare contenuti e servizi domestici.
@@ -42,5 +43,6 @@ updated: 2026-06-13
 
 ## Changelog
 
+- 2026-06-18: consolidati i dettagli NAS/Jellyfin nel progetto dedicato `20-projects/nas-jellyfin-backup/project.md`.
 - 2026-06-13: rimossa la watchlist Jellyfin da questo progetto; spostata in una nota dedicata alla libreria media.
 - 2026-06-13: creato progetto con note su Home Assistant Green, NAS UGREEN 4800 Plus, Jellyfin, backup Google Drive, accesso famiglia, Zigbee e Philips Hue.
